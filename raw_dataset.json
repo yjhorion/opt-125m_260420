@@ -1,0 +1,102 @@
+[
+  {
+    "element_id": 0,
+    "text": "지도 홈\n선택됨",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar active\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2"
+  },
+  {
+    "element_id": 1,
+    "text": "길찾기",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg"
+  },
+  {
+    "element_id": 2,
+    "text": "버스",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg"
+  },
+  {
+    "element_id": 3,
+    "text": "지하철",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg"
+  },
+  {
+    "element_id": 4,
+    "text": "기차",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 46 24"
+  },
+  {
+    "element_id": 5,
+    "text": "new\n저장",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span top=\"14\" right=\"21\" class=\"StyledNudgeDot-sc-z6oujg-0 gIwmst\"><span class=\"blind\">new</span></span><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo ico"
+  },
+  {
+    "element_id": 6,
+    "text": "더보기",
+    "html_snippet": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg"
+  },
+  {
+    "element_id": 7,
+    "text": "읽은 알림 삭제",
+    "html_snippet": "<button onclick=\"gnbNaverMeLayer.deleteReadList(this, event);\" id=\"gnb_btn_read_noti_del\">읽은 알림 삭제</button>"
+  },
+  {
+    "element_id": 8,
+    "text": "모두 삭제",
+    "html_snippet": "<button onclick=\"gnbNaverMeLayer.showDeleteAlert();\" id=\"gnb_btn_all_noti_del\">모두 삭제</button>"
+  },
+  {
+    "element_id": 9,
+    "text": "확인",
+    "html_snippet": "<button id=\"ly_alert_confirm\" onclick=\"gnbNaverMeLayer.deleteAllList(this, event);\">확인</button>"
+  },
+  {
+    "element_id": 10,
+    "text": "취소",
+    "html_snippet": "<button onclick=\"gnbNaverMeLayer.hideDeleteAlert();\">취소</button>"
+  },
+  {
+    "element_id": 11,
+    "text": "레이어 닫기",
+    "html_snippet": "<button class=\"gnb_btn_close\" onclick=\"gnbNaverMeLayer.hideDeleteAlert();\"><i>레이어 닫기</i></button>"
+  },
+  {
+    "element_id": 12,
+    "text": "",
+    "html_snippet": "<input id=\"gnb_svc_search_input\" type=\"text\" autocomplete=\"off\" title=\"서비스 검색\" value=\"더 많은 서비스를 간편하게 시작하세요!\" onfocus=\"gnb_search.clearInput(this);\" onblur=\"gnb_search.resetInput(this);\" onkeydown=\"gnb"
+  },
+  {
+    "element_id": 13,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_game\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 14,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_weather\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 15,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_shopping\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 16,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_naverpay\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 17,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_mybox\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 18,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_news\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  },
+  {
+    "element_id": 19,
+    "text": "",
+    "html_snippet": "<input type=\"checkbox\" id=\"nsvc_comic\" name=\"selmenu\" class=\"gnb_input_check\" value=\"\">"
+  }
+]
