@@ -1,0 +1,3564 @@
+[
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "본문 바로가기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#section_content\"><span>본문 바로가기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "주 메뉴 바로가기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#header\"><span>주 메뉴 바로가기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "link_logo",
+      "text": "네이버지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a class=\"link_logo\" href=\"https://www.naver.com\"><span class=\"blind\">네이버지도</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar active",
+      "text": "지도 홈 선택됨",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar active\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M31 1c-4.418 0-8 3.416-8 7.63 0 1.455.41 2.81 1.152 3.967l6.662 9.31c.09.124.283.1"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "길찾기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m39.768 7.184-4.664-3.096a.52.52 0 0 0-.81.43V6.58H28.08c-1.147 0-2.08.929-2.08 2.07V19h2"
+  },
+  { 
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "버스",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35.5 15.75a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-9 0a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-1-3.75h11V7h-"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "지하철",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m29.282 15.714-1.29 1.428h5.997l-1.28-1.428h-3.427zm5.19-4.285a.907.907 0 1 0 0 1.814.907"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "기차",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 46 24\"><path d=\"m21.333 15.91-1.253 1.361h5.832l-1.245-1.361h-3.334zM23 10.5c-.869 0-1.574.692-1.574 1.54"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "new 저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span top=\"14\" right=\"21\" class=\"StyledNudgeDot-sc-z6oujg-0 gIwmst\"><span class=\"blind\">new</span></span><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/200"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "더보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M27 11.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 0a"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_login_button",
+      "class": "gnb_btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a class=\"gnb_btn_login\" href=\"https://nid.naver.com/nidlogin.login\" id=\"gnb_login_button\"><span class=\"gnb_bg\"></span><span class=\"gnb_bdr\"></span><span class=\"gnb_txt\">로그인</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_my",
+      "class": "gnb_my",
+      "text": "내정보 보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"javascript:;\" id=\"gnb_my\" class=\"gnb_my\" onclick=\"gnbUserLayer.clickToggle(); return false;\"><img id=\"gnb_profile_img\" src=\"data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D\" onerror=\"this.src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAGXRFWHRTb2Z0d2Fy"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_emp",
+      "class": "gnb_emp",
+      "text": "(임직원혜택)",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\" class=\"gnb_emp\" id=\"gnb_emp\">(임직원혜택)</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_change",
+      "text": "프로필 사진 변경",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/user2/api/naverProfile?m=checkIdType\" class=\"gnb_change\"><span class=\"blind\">프로필 사진 변경</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_nick",
+      "text": "_",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a class=\"gnb_nick\" href=\"https://nid.naver.com/user2/api/naverProfile?m=checkIdType\">_</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_logout_button",
+      "class": "gnb_btn_login",
+      "text": "로그아웃",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a class=\"gnb_btn_login\" href=\"https://nid.naver.com/nidlogin.logout?returl=/\" id=\"gnb_logout_button\"><span class=\"gnb_bg\"></span><span class=\"gnb_bdr\"></span><span class=\"gnb_txt\">로그아웃</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_mail_address",
+      "text": "@naver.com",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://mail.naver.com\" class=\"gnb_mail_address\">@naver.com</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "네이버ID",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/user2/help/myInfo?menu=home\">네이버ID</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "보안설정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/user2/help/myInfo?m=viewSecurity&amp;menu=security\">보안설정</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_cert_lnk_a",
+      "class": "",
+      "text": "내인증서",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/user2/eSign/v1/home/land\" id=\"gnb_cert_lnk_a\">내인증서</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_my_membership",
+      "class": "gnb_my_membership",
+      "text": "네이버 멤버쉽",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/membership/my\" class=\"gnb_my_membership\" id=\"gnb_my_membership\"><i class=\"blind\">네이버 멤버쉽</i></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_pay_point",
+      "class": "",
+      "text": "내 페이포인트",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://point.pay.naver.com\" id=\"gnb_pay_point\"><span style=\"display: none\">내 페이포인트</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_blog",
+      "text": "내 블로그",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://blog.naver.com/MyBlog.naver\" class=\"gnb_blog\">내 블로그</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_cafe",
+      "text": "가입한 카페",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://section.cafe.naver.com\" class=\"gnb_cafe\">가입한 카페</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_pay_banner_membership",
+      "class": "gnb_pay",
+      "text": "N Pay",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://pay.naver.com\" class=\"gnb_pay\" id=\"gnb_pay_banner_membership\" style=\"display: block;\"><span>N Pay</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_pay_banner_newbie",
+      "class": "gnb_pay",
+      "text": "네이버 멤버십 최대 5% 적립",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://nid.naver.com/membership/join\" class=\"gnb_pay\" id=\"gnb_pay_banner_newbie\" style=\"display: none;\"><i>네이버 멤버십 최대 5% 적립</i></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_my_interface",
+      "text": "환경설정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\" class=\"gnb_my_interface\" style=\"display:none\"><span class=\"blind\">환경설정</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_talks_button",
+      "class": "gnb_talk",
+      "text": "네이버톡",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a id=\"gnb_talks_button\" class=\"gnb_talk\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://talks.naver.com/?frm=pcgnb&amp;anchor=&amp;category=\"><span class=\"blind\">네이버톡</span><span class=\"gnb_icon\"></span><em class=\"gnb_ico_num\" id=\"gnb_talk_menu\" style=\"display:none\"><span class=\"gnb_ico_ne"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_notice",
+      "text": "알림",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://m.notify.naver.com/?from=pcmain\" class=\"gnb_notice\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"blind\">알림</span><span class=\"gnb_icon\"></span><em class=\"gnb_ico_num\" id=\"gnb_me_menu\" style=\"display:none\"><span class=\"gnb_ico_new\"><span class=\"gnb_count\" id=\"gnb_me_count\">"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "gnb_btn_read_noti_del",
+      "class": "",
+      "text": "읽은 알림 삭제",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.deleteReadList(this, event);\" id=\"gnb_btn_read_noti_del\">읽은 알림 삭제</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "gnb_btn_all_noti_del",
+      "class": "",
+      "text": "모두 삭제",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.showDeleteAlert();\" id=\"gnb_btn_all_noti_del\">모두 삭제</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "ly_alert_confirm",
+      "class": "",
+      "text": "확인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button id=\"ly_alert_confirm\" onclick=\"gnbNaverMeLayer.deleteAllList(this, event);\">확인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "",
+      "text": "취소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.hideDeleteAlert();\">취소</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_btn_close",
+      "text": "레이어 닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_btn_close\" onclick=\"gnbNaverMeLayer.hideDeleteAlert();\"><i>레이어 닫기</i></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_notice_all",
+      "text": "내 알림 전체보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://m.notify.naver.com/?from=pcmain\" class=\"gnb_notice_all\">내 알림 전체보기</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_mail",
+      "text": "메일",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://mail.naver.com\" class=\"gnb_mail\"><span class=\"blind\">메일</span><span class=\"gnb_icon\"></span><em class=\"gnb_ico_num\" id=\"gnb_mail_menu\" style=\"display:none\"><span class=\"gnb_ico_new\"><span class=\"gnb_count\" id=\"gnb_mail_count\"></span></span></em></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_service",
+      "text": "서비스 더보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"javascript:;\" class=\"gnb_service\" onclick=\"gnbMoreLayer.clickToggle(); return false;\"><span class=\"blind\">서비스 더보기</span><span class=\"gnb_icon\"></span><span class=\"ico_arrow\"></span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\" class=\"gnb_close\"><span class=\"blind\">닫기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "추가",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\"><span class=\"ic_add\"></span>추가</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "추가",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\"><span class=\"ic_add\"></span>추가</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "추가",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\"><span class=\"ic_add\"></span>추가</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "추가",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\"><span class=\"ic_add\"></span>추가</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "gnb_my_interface",
+      "text": "즐겨찾기 설정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\" class=\"gnb_my_interface\" onclick=\"gnbMoreLayer.clickToggleWhole(); return false;\"><span class=\"blind\">즐겨찾기 설정</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_del_txt",
+      "class": "gnb_del_txt",
+      "text": "삭제",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"#\" class=\"gnb_del_txt\" id=\"gnb_del_txt\" style=\"display:none\"><span class=\"blind\">삭제</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_search_lst_first_item",
+      "class": "",
+      "text": "카페",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a id=\"gnb_search_lst_first_item\" href=\"https://cafe.naver.com/\">카페</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "뉴스",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://news.naver.com/\">뉴스</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "웹툰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://comic.naver.com/\">웹툰</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "도서",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://book.naver.com\">도서</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "지식iN",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://kin.naver.com/\">지식iN</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "블로그",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://section.blog.naver.com/\">블로그</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "증권",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://stock.naver.com/\">증권</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "치지직",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://chzzk.naver.com/\">치지직</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "사전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://dict.naver.com/\">사전</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "캘린더",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://calendar.naver.com/\">캘린더</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "메일",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://mail.naver.com/\">메일</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "부동산",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://land.naver.com/\">부동산</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "날씨",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://weather.naver.com/\">날씨</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "스포츠",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://m.sports.naver.com/index\">스포츠</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "MYBOX",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://mybox.naver.com/\">MYBOX</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "스토어",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://shopping.naver.com/ns/home\">스토어</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://map.naver.com/\">지도</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "페이",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://pay.naver.com/\">페이</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "웹소설",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://novel.naver.com/webnovel/weekday\">웹소설</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "VIBE",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://vibe.naver.com/today/\">VIBE</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "gnb_service_all",
+      "class": "gnb_service_all",
+      "text": "전체 서비스 보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://www.naver.com/more.html\" class=\"gnb_service_all\" id=\"gnb_service_all\">전체 서비스 보기</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "전체 서비스 보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://www.naver.com/more.html\">전체 서비스 보기</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "",
+      "text": "어학사전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://dict.naver.com/\">어학사전</a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_save",
+      "text": "확인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_save\" onclick=\"if(gnbFavorite.addService()){gnbMoreLayer.clickToggleWhole()} return false;\"><strong class=\"blind\">확인</strong></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_close",
+      "text": "취소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_close\" onclick=\"gnbFavorite.cancel(); return false;\"><span class=\"blind\">취소</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_return",
+      "text": "초기 설정으로 변경",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_return\" onclick=\"gnbFavorite.resetService(); return false;\"><span class=\"blind\">초기 설정으로 변경</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "button_search",
+      "text": "검색",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"button_search\">검색</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "notice_item fade-out",
+      "text": "서울지방경찰청 외부제공 방화벽 및 네트워크 작업에 따른 CCTV 서비스 일시 중단 안내(4/16(목) 20:00~4/17(금) 06:00) 새창열기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://blog.naver.com/PostView.naver?blogId=naver_map&amp;navType=tl&amp;logNo=224254405502\" class=\"notice_item fade-out\" tabindex=\"-1\" target=\"_blank\" rel=\"noreferrer\"><span class=\"notice_text\">서울지방경찰청 외부제공 방화벽 및 네트워크 작업에 따른 CCTV 서비스 일시 중단 안내(4/16(목) 20:00~4/17(금) 06:00)</span><span class"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "notice_item fade-in",
+      "text": "지도 앱 업데이트 안내 - 대중교통 실시간 유고정보 (v6.4.0 이상) 새창열기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://blog.naver.com/PostView.naver?blogId=naver_map&amp;navType=tl&amp;logNo=224213893042\" class=\"notice_item fade-in\" tabindex=\"0\" target=\"_blank\" rel=\"noreferrer\"><span class=\"notice_text\">지도 앱 업데이트 안내 - 대중교통 실시간 유고정보 (v6.4.0 이상)</span><span class=\"blind\">새창열기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "notice_item",
+      "text": "경기도 교통정보센터 이전에 따른 교통정보 및 교통 CCTV 서비스 일시 중단 안내(2/28~3/1) 새창열기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://blog.naver.com/PostView.naver?blogId=naver_map&amp;navType=tl&amp;logNo=224196715607\" class=\"notice_item\" tabindex=\"-1\" target=\"_blank\" rel=\"noreferrer\"><span class=\"notice_text\">경기도 교통정보센터 이전에 따른 교통정보 및 교통 CCTV 서비스 일시 중단 안내(2/28~3/1)</span><span class=\"blind\">새창열기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "notice_btn left_area",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"notice_btn left_area\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo notice_icon_arrow icon\"><span class=\"blind\">이전</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"11.667\" fill=\"#f"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "notice_btn right_area",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"notice_btn right_area\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo notice_icon_arrow icon\"><span class=\"blind\">다음</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"11.667\" fill=\"#"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_address",
+      "text": "성동구 성수1가1동",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_address\" type=\"button\">성동구 성수1가1동</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_report",
+      "text": "오류신고",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_report\">오류신고</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_around_filter",
+      "text": "오후시간대추천순 설정 펼치기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_around_filter\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-controls=\"my_around_filter\"><strong class=\"point\">오후</strong><span>시간대</span><strong class=\"point\">추천순</strong><span class=\"blind\">설정 펼치기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledFoldButton-sc-2i1w8l-0 gabegz",
+      "text": "패널 접기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-expanded=\"true\" class=\"StyledFoldButton-sc-2i1w8l-0 gabegz\"><span class=\"blind\">패널 접기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "button_search",
+      "text": "검색",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"button_search\">검색</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "음식점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/dining_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">음식점</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "카페",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/cafe_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">카페</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "팝업스토어",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/popupstore_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">팝업스토어</span></button"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_bubble_more",
+      "text": "주변 키워드 더보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_bubble_more\" aria-expanded=\"false\" aria-controls=\"bubble_keyword_more\"><span class=\"blind\">주변 키워드 더보기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "펜션",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pension_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">펜션</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "쿠폰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/coupon_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">쿠폰</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주문",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pickup_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주문</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "편의점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/store_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">편의점</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "마트",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/mart_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">마트</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "헤어샵",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hair_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">헤어샵</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "호텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hotel_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">호텔</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "캠핑장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/camping_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">캠핑장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "모텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/motel_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">모텔</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주유소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/oil_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주유소</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주차장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/parking_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주차장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "약국",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pharmacy_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">약국</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "은행",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/bank_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">은행</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "병원",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hospital_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">병원</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "응급진료",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/emergencycare_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">응급진료</span></butt"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"weather_popup_btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_tab",
+      "text": "시간대별",
+      "placeholder": "",
+      "aria_label": "",
+      "role": "tab"
+    },
+    "html": "<button role=\"tab\" type=\"button\" class=\"weather_popup_tab\" aria-selected=\"true\">시간대별</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_tab",
+      "text": "일별",
+      "placeholder": "",
+      "aria_label": "",
+      "role": "tab"
+    },
+    "html": "<button role=\"tab\" type=\"button\" class=\"weather_popup_tab\" aria-selected=\"false\">일별</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "weather_btn_offer",
+      "text": "기상청새창열기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://www.weather.go.kr/w/index.do\" target=\"_blank\" rel=\"noreferrer\" class=\"weather_btn_offer\">기상청<span class=\"blind\">새창열기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "a",
+      "id": "",
+      "class": "weather_btn_more",
+      "text": "날씨 더보기새창열기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<a href=\"https://weather.naver.com/today/09200650\" target=\"_blank\" rel=\"noreferrer\" class=\"weather_btn_more\">날씨 더보기<span class=\"blind\">새창열기</span></a>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 egSuCL btn_carto",
+      "text": "일반지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"true\" class=\"StyledCartoButton-sc-i238bv-1 egSuCL btn_carto\"><span class=\"carto_label\">일반지도</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 guqmnr btn_carto",
+      "text": "위성지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"false\" class=\"StyledCartoButton-sc-i238bv-1 guqmnr btn_carto\"><span class=\"carto_label\">위성지도</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_carto_checkbox",
+      "text": "정보 보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn_carto_checkbox\"><span class=\"carto_icon_check\"></span>정보 보기</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 fPWIKL btn_carto",
+      "text": "지형지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"false\" class=\"StyledCartoButton-sc-i238bv-1 fPWIKL btn_carto\"><span class=\"carto_label\">지형지도</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_theme",
+      "text": "테마",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_theme\" aria-pressed=\"false\"><span class=\"blind\">테마</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_favorite\" aria-pressed=\"false\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_land",
+      "text": "지적편집도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_land\" aria-pressed=\"false\"><span class=\"blind\">지적편집도</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_panorama",
+      "text": "거리뷰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_panorama\" aria-pressed=\"false\"><span class=\"blind\">거리뷰</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_radius",
+      "text": "반경측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_radius\" aria-pressed=\"false\"><span class=\"blind\">반경측정</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_area",
+      "text": "면적측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_area\" aria-pressed=\"false\"><span class=\"blind\">면적측정</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_distance",
+      "text": "거리측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_distance\" aria-pressed=\"false\"><span class=\"blind\">거리측정</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledExportButton-sc-v5kblw-1 fcdZSt widget_save",
+      "text": "다운로드",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledExportButton-sc-v5kblw-1 fcdZSt widget_save\"><span class=\"blind\">다운로드</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledExportButton-sc-v5kblw-1 fcdZSt widget_print",
+      "text": "인쇄",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledExportButton-sc-v5kblw-1 fcdZSt widget_print\"><span class=\"blind\">인쇄</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "«r3»",
+      "class": "naver-splugin btn StyledShareUrl-sc-v5kblw-2 drVunv",
+      "text": "공유하기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button id=\"«r3»\" type=\"button\" class=\"naver-splugin btn StyledShareUrl-sc-v5kblw-2 drVunv\" data-title=\"네이버지도\" data-option=\"{&quot;baseElement&quot;:&quot;«r3»&quot;,&quot;layerPosition&quot;:&quot;outside-top&quot;,&quot;align&quot;:&quot;right&quot;,&quot;top&quot;:-43,&quot;left&quot;:51}\" data-p"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_location",
+      "text": "접속위치",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_location\" aria-pressed=\"false\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo widget_location_icon icon\"><span class=\"blind\">접속위치</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 29 29\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.89 23.01V2"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_widget_zoom zoom_in",
+      "text": "확대",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_widget_zoom zoom_in\"><span class=\"blind\">확대</span></button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 bURvnw tooltip1",
+      "text": "부동산",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 bURvnw tooltip1\">부동산</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 bURvlH tooltip2",
+      "text": "거리",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 bURvlH tooltip2\">거리</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmyejk tooltip3",
+      "text": "동",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmyejk tooltip3\">동</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmycVT tooltip4",
+      "text": "읍/면",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmycVT tooltip4\">읍/면</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmyehp tooltip5",
+      "text": "시/군/구",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmyehp tooltip5\">시/군/구</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmydam tooltip6",
+      "text": "시/도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmydam tooltip6\">시/도</button>"
+  },
+  {
+    "context": "main_screen",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_widget_zoom zoom_out",
+      "text": "축소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_widget_zoom zoom_out\"><span class=\"blind\">축소</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar active",
+      "text": "지도 홈 선택됨",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar active\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M31 1c-4.418 0-8 3.416-8 7.63 0 1.455.41 2.81 1.152 3.967l6.662 9.31c.09.124.283.1"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "길찾기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m39.768 7.184-4.664-3.096a.52.52 0 0 0-.81.43V6.58H28.08c-1.147 0-2.08.929-2.08 2.07V19h2"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "버스",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35.5 15.75a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-9 0a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-1-3.75h11V7h-"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "지하철",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m29.282 15.714-1.29 1.428h5.997l-1.28-1.428h-3.427zm5.19-4.285a.907.907 0 1 0 0 1.814.907"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "기차",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 46 24\"><path d=\"m21.333 15.91-1.253 1.361h5.832l-1.245-1.361h-3.334zM23 10.5c-.869 0-1.574.692-1.574 1.54"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "new 저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span top=\"14\" right=\"21\" class=\"StyledNudgeDot-sc-z6oujg-0 gIwmst\"><span class=\"blind\">new</span></span><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/200"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_navbar",
+      "text": "더보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_navbar\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo icon\"><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 62 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M27 11.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 0a"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "gnb_btn_read_noti_del",
+      "class": "",
+      "text": "읽은 알림 삭제",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.deleteReadList(this, event);\" id=\"gnb_btn_read_noti_del\">읽은 알림 삭제</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "gnb_btn_all_noti_del",
+      "class": "",
+      "text": "모두 삭제",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.showDeleteAlert();\" id=\"gnb_btn_all_noti_del\">모두 삭제</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "ly_alert_confirm",
+      "class": "",
+      "text": "확인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button id=\"ly_alert_confirm\" onclick=\"gnbNaverMeLayer.deleteAllList(this, event);\">확인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "",
+      "text": "취소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button onclick=\"gnbNaverMeLayer.hideDeleteAlert();\">취소</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_btn_close",
+      "text": "레이어 닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_btn_close\" onclick=\"gnbNaverMeLayer.hideDeleteAlert();\"><i>레이어 닫기</i></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_save",
+      "text": "확인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_save\" onclick=\"if(gnbFavorite.addService()){gnbMoreLayer.clickToggleWhole()} return false;\"><strong class=\"blind\">확인</strong></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_close",
+      "text": "취소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_close\" onclick=\"gnbFavorite.cancel(); return false;\"><span class=\"blind\">취소</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "gnb_return",
+      "text": "초기 설정으로 변경",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"gnb_return\" onclick=\"gnbFavorite.resetService(); return false;\"><span class=\"blind\">초기 설정으로 변경</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "button_search",
+      "text": "검색",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"button_search\">검색</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "notice_btn left_area",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"notice_btn left_area\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo notice_icon_arrow icon\"><span class=\"blind\">이전</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"11.667\" fill=\"#f"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "notice_btn right_area",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"notice_btn right_area\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo notice_icon_arrow icon\"><span class=\"blind\">다음</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"11.667\" fill=\"#"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_address",
+      "text": "성동구 성수1가1동",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_address\" type=\"button\">성동구 성수1가1동</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_report",
+      "text": "오류신고",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_report\">오류신고</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_around_filter",
+      "text": "오후시간대추천순 설정 펼치기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_around_filter\" aria-expanded=\"false\" aria-haspopup=\"listbox\" aria-controls=\"my_around_filter\"><strong class=\"point\">오후</strong><span>시간대</span><strong class=\"point\">추천순</strong><span class=\"blind\">설정 펼치기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -prev",
+      "text": "이전",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -prev\" disabled=\"\" type=\"button\">이전</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_place_scroll -next",
+      "text": "다음",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"btn_place_scroll -next\" type=\"button\">다음</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn btn_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn btn_favorite\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_login",
+      "text": "로그인",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_login\">로그인</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledFoldButton-sc-2i1w8l-0 gabegz",
+      "text": "패널 접기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-expanded=\"true\" class=\"StyledFoldButton-sc-2i1w8l-0 gabegz\"><span class=\"blind\">패널 접기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "button_search",
+      "text": "검색",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"button_search\">검색</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "음식점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/dining_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">음식점</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "음식점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">음식점</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "카페",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/cafe_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">카페</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "카페",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">카페</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL",
+      "text": "팝업스토어",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/popupstore_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">팝업스토어</span></button"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "팝업스토어",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">팝업스토어</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_bubble_more",
+      "text": "주변 키워드 더보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_bubble_more\" aria-expanded=\"true\" aria-controls=\"bubble_keyword_more\"><span class=\"blind\">주변 키워드 더보기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "펜션",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pension_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">펜션</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "펜션",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">펜션</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "쿠폰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/coupon_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">쿠폰</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "쿠폰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">쿠폰</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주문",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pickup_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주문</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "주문",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">주문</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "편의점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/store_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">편의점</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "편의점",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">편의점</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "마트",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/mart_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">마트</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "마트",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">마트</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "헤어샵",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hair_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">헤어샵</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "헤어샵",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">헤어샵</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "호텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hotel_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">호텔</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "호텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">호텔</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "캠핑장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/camping_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">캠핑장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "캠핑장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">캠핑장</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "모텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/motel_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">모텔</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "모텔",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">모텔</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주유소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/oil_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주유소</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "주유소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">주유소</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "주차장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/parking_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">주차장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "주차장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">주차장</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "약국",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/pharmacy_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">약국</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "약국",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">약국</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "은행",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/bank_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">은행</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "은행",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">은행</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "병원",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/hospital_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">병원</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "병원",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">병원</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF",
+      "text": "응급진료",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledBubbleKeywordButton-sc-1nm3szv-0 cFrsTF\" type=\"button\"><img width=\"20\" height=\"20\" class=\"StyledImg-sc-t1g0ob-0\" src=\"https://map.pstatic.net/resource/api/v2/image/maps/around-category/emergencycare_category_pc.png?version=103\"><span class=\"bubble_keyword_text\">응급진료</span></butt"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "span",
+      "id": "",
+      "class": "bubble_keyword_text",
+      "text": "응급진료",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<span class=\"bubble_keyword_text\">응급진료</span>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_btn_close",
+      "text": "닫기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"weather_popup_btn_close\"><span class=\"blind\">닫기</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_tab",
+      "text": "시간대별",
+      "placeholder": "",
+      "aria_label": "",
+      "role": "tab"
+    },
+    "html": "<button role=\"tab\" type=\"button\" class=\"weather_popup_tab\" aria-selected=\"true\">시간대별</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "weather_popup_tab",
+      "text": "일별",
+      "placeholder": "",
+      "aria_label": "",
+      "role": "tab"
+    },
+    "html": "<button role=\"tab\" type=\"button\" class=\"weather_popup_tab\" aria-selected=\"false\">일별</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 egSuCL btn_carto",
+      "text": "일반지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"true\" class=\"StyledCartoButton-sc-i238bv-1 egSuCL btn_carto\"><span class=\"carto_label\">일반지도</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 guqmnr btn_carto",
+      "text": "위성지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"false\" class=\"StyledCartoButton-sc-i238bv-1 guqmnr btn_carto\"><span class=\"carto_label\">위성지도</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_carto_checkbox",
+      "text": "정보 보기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-pressed=\"false\" class=\"btn_carto_checkbox\"><span class=\"carto_icon_check\"></span>정보 보기</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledCartoButton-sc-i238bv-1 fPWIKL btn_carto",
+      "text": "지형지도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" aria-current=\"false\" class=\"StyledCartoButton-sc-i238bv-1 fPWIKL btn_carto\"><span class=\"carto_label\">지형지도</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_theme",
+      "text": "테마",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_theme\" aria-pressed=\"false\"><span class=\"blind\">테마</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_favorite",
+      "text": "저장",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_favorite\" aria-pressed=\"false\"><span class=\"blind\">저장</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_land",
+      "text": "지적편집도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_land\" aria-pressed=\"false\"><span class=\"blind\">지적편집도</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_panorama",
+      "text": "거리뷰",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_panorama\" aria-pressed=\"false\"><span class=\"blind\">거리뷰</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_radius",
+      "text": "반경측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_radius\" aria-pressed=\"false\"><span class=\"blind\">반경측정</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_area",
+      "text": "면적측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_area\" aria-pressed=\"false\"><span class=\"blind\">면적측정</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_distance",
+      "text": "거리측정",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledWidgetButton-sc-gh0l5k-1 cvKECg widget_distance\" aria-pressed=\"false\"><span class=\"blind\">거리측정</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledExportButton-sc-v5kblw-1 fcdZSt widget_save",
+      "text": "다운로드",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledExportButton-sc-v5kblw-1 fcdZSt widget_save\"><span class=\"blind\">다운로드</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledExportButton-sc-v5kblw-1 fcdZSt widget_print",
+      "text": "인쇄",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button class=\"StyledExportButton-sc-v5kblw-1 fcdZSt widget_print\"><span class=\"blind\">인쇄</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "«r3»",
+      "class": "naver-splugin btn StyledShareUrl-sc-v5kblw-2 drVunv",
+      "text": "공유하기",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button id=\"«r3»\" type=\"button\" class=\"naver-splugin btn StyledShareUrl-sc-v5kblw-2 drVunv\" data-title=\"네이버지도\" data-option=\"{&quot;baseElement&quot;:&quot;«r3»&quot;,&quot;layerPosition&quot;:&quot;outside-top&quot;,&quot;align&quot;:&quot;right&quot;,&quot;top&quot;:-43,&quot;left&quot;:51}\" data-p"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_location",
+      "text": "접속위치",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_location\" aria-pressed=\"false\"><span class=\"StyledIconWrapper-sc-1x9odj1-0 eEIIKo widget_location_icon icon\"><span class=\"blind\">접속위치</span><span class=\"icon_inner\" aria-hidden=\"true\"><svg viewBox=\"0 0 29 29\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.89 23.01V2"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_widget_zoom zoom_in",
+      "text": "확대",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_widget_zoom zoom_in\"><span class=\"blind\">확대</span></button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 bURvnw tooltip1",
+      "text": "부동산",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 bURvnw tooltip1\">부동산</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 bURvlH tooltip2",
+      "text": "거리",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 bURvlH tooltip2\">거리</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmyejk tooltip3",
+      "text": "동",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmyejk tooltip3\">동</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmycVT tooltip4",
+      "text": "읍/면",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmycVT tooltip4\">읍/면</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmyehp tooltip5",
+      "text": "시/군/구",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmyehp tooltip5\">시/군/구</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "StyledRangeTooltip-sc-lvw0q5-1 gmydam tooltip6",
+      "text": "시/도",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"StyledRangeTooltip-sc-lvw0q5-1 gmydam tooltip6\">시/도</button>"
+  },
+  {
+    "context": "more_menu_layer",
+    "info": {
+      "tag": "button",
+      "id": "",
+      "class": "btn_widget_zoom zoom_out",
+      "text": "축소",
+      "placeholder": "",
+      "aria_label": "",
+      "role": ""
+    },
+    "html": "<button type=\"button\" class=\"btn_widget_zoom zoom_out\"><span class=\"blind\">축소</span></button>"
+  }
+]
