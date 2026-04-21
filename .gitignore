@@ -10,3 +10,6 @@ wheels/
 .venv
 .venv/
 __pycache__/
+
+# Fine-tuning outputs
+Qwen-2.5-3B/qwen-web_helper_model

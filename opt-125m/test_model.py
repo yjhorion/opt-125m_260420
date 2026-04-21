@@ -13,11 +13,11 @@ def ask_ai(instruction, input_html):
     tokenizer = AutoTokenizer.from_pretrained(model_id)
 
     # AI가 배운 양식 그대로 질문을 구성합니다.
-    #prompt = f"### Instruction: {instruction}\n### Input: {input_html}\n### Response:"
+    prompt = f"### Instruction: {instruction}\n### Input: {input_html}\n### Response:"
     #AI가 학습한 그대로의 양식을 프롬프트로 제공 
     
     # 수정 후 (AI에게 힌트를 더 줌)
-    prompt = f"Below is an HTML element and a user request. Predict the action (click or type).\nRequest: {instruction}\nElement: {input_html}\nAction:"
+    #prompt = f"Below is an HTML element and a user request. Predict the action (click or type).\nRequest: {instruction}\nElement: {input_html}\nAction:"
 
 
     inputs = tokenizer(prompt, return_tensors="pt")

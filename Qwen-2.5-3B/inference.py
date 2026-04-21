@@ -24,7 +24,7 @@ def run_inference():
 
     # 3. 테스트할 시나리오 (실제 데이터셋에 있던 것 중 하나)
     # 124번 엘리먼트: 음식점 버튼 (x: 468, y: 25)
-    test_instruction = "약국 버튼 눌러줘"
+    test_instruction = "음식점 버튼 눌러줘"
     test_html = '<button class="StyledBubbleKeywordButton-sc-1nm3szv-0 dtCpYL" type="button"><img width="20" height="20" class="StyledImg-sc-t1g0ob-0" src="https://map.pstatic.net/resource/api/v2/image/maps/around-category/dining_category_pc.png?version=103"><span class="bubble_keyword_text">음식점</span></button>'
 
     # 4. 프롬프트 구성 (학습 때와 동일한 포맷)
